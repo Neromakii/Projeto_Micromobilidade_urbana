@@ -40,3 +40,15 @@
 ![Diagrama Sequencia3](DDS3.png)
 
 ![Diagrama Sequencia4](DDS4.png)
+
+# Diagrama de Estados
+
+![Diagrama Estados1](DDE01.jpeg)
+
+![Diagrama Estados2](DDE02.jpeg)
+
+![Diagrama Estados3](DDE03.jpeg)
+
+![Diagrama Estados4](DDE04.jpeg)
+
+
