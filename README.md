@@ -30,3 +30,13 @@
 # Diagrama de Classes
 
 ![Diagrama Classes](DDC.jpeg)
+
+# Diagrama de Sequência
+
+![Diagrama Sequencia1](DDS1.png)
+
+![Diagrama Sequencia2](DDS2.png)
+
+![Diagrama Sequencia3](DDS3.png)
+
+![Diagrama Sequencia4](DDS4.png)
