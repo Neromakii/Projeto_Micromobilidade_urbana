@@ -51,4 +51,8 @@
 
 ![Diagrama Estados4](DDE04.jpeg)
 
+# Diagrama de Atividades
+
+![Diagrama Atividades](DDA.jpeg)
+
 
