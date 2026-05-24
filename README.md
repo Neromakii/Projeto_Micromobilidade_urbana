@@ -5,7 +5,11 @@
 **Fernando Domingues**
 
 
-#Diagrama de Casos de Uso
+# Diagrama de Casos de Uso
 
-![Diagrama CasoDeUso](DCDU.png)
+![Diagrama CasoDeUso](DCDU.jpeg)
 
+
+# Diagrama de Classes
+
+![Diagrama Classes](DDC.jpeg)
